@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-- 🔭 I’m currently working on research about the moon 🌖 with ![Python](https://img.shields.io/badge/-Python-green?style=plastic&logo=python)
+- 🔭 I’m currently working on research about the moon 🌘 with ![Python](https://img.shields.io/badge/-Python-green?style=plastic&logo=python)
 - 🌱 I’m currently learning about AI and Machine Learning with ![Python](https://img.shields.io/badge/-Python-green?style=plastic&logo=python) and ![Octave](https://img.shields.io/badge/-Octave-yellow?style=plastic&logo=octave)
 - 🛠️ I enjoy building Web Apps with ![Angular](https://img.shields.io/badge/-Angular-red?style=plastic&logo=angular), and Mobile Apps with ![Ionic](https://img.shields.io/badge/-Ionic-cyan?style=plastic&logo=ionic)
 

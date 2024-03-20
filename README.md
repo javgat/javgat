@@ -1,9 +1,13 @@
 ### Hello there! 👋
 
 - 🔭 I’m currently working on research about the moon 🌘 with <sub>![Python](https://img.shields.io/badge/-Python-green?style=plastic&logo=python)</sub>
-- 🌱 I’m currently learning about AI and Machine Learning with <sub>![Python](https://img.shields.io/badge/-Python-green?style=plastic&logo=python)</sub> 
-and <sub>![Octave](https://img.shields.io/badge/-Octave-yellow?style=plastic&logo=octave)</sub>
-- 🛠️ I enjoy building Web Apps with <sub>![Angular](https://img.shields.io/badge/-Angular-red?style=plastic&logo=angular)</sub>, and Mobile Apps with <sub>![Ionic](https://img.shields.io/badge/-Ionic-cyan?style=plastic&logo=ionic)</sub>
+- 🌱 I’m also currently learning about AI and Machine Learning with <sub>![Python](https://img.shields.io/badge/-Python-green?style=plastic&logo=python)</sub> 
+and <sub>![Keras](https://img.shields.io/badge/-Keras-red?style=plastic&logo=keras)</sub><!--<sub>![Octave](https://img.shields.io/badge/-Octave-yellow?style=plastic&logo=octave)</sub>-->
+- 🛠️ I enjoy building desktop apps with <sub>![PySide](https://img.shields.io/badge/-PySide-blue?style=plastic&logo=qt)</sub>
+
+<!-- 
+and also sometimes building Web Apps with <sub>![Angular](https://img.shields.io/badge/-Angular-red?style=plastic&logo=angular)</sub>, and Mobile Apps with <sub>![Ionic](https://img.shields.io/badge/-Ionic-cyan?style=plastic&logo=ionic)</sub>
+-->
 
 You can learn more about me on my site:
 <a href="https://javgat.github.io" target="_blank">javgat.github.io</a>

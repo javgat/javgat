@@ -13,7 +13,11 @@ You can learn more about me on my site:
 <a href="https://javgat.github.io" target="_blank">javgat.github.io</a>
 
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=javgat&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=javgat&show_icons=true&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=javgat&show_icons=true&theme=catppuccin_latte">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=javgat&show_icons=true&theme=tokyonight">
+  </picture>
 </div>
 
 <br/>

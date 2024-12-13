@@ -12,8 +12,14 @@ and also sometimes building Web Apps with <sub>![Angular](https://img.shields.io
 You can learn more about me on my site:
 <a href="https://javgat.github.io" target="_blank">javgat.github.io</a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=javgat&show_icons=true&theme=tokyonight)
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=javgat&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</div>
 
-Feel free to contact me 📫:
-<sub><a href="https://www.linkedin.com/in/javier-gaton-herguedas/" target="_blank">![Linkedin logo](https://img.shields.io/badge/-Linkedin-0e76a8?style=plastic-square&logo=Linkedin&logoColor=white)</a></sub>
-<sub><a href="mailto:javigaton@gmail.com" target="_blank">![Gmail logo](https://img.shields.io/badge/Gmail-aa0000?style=plastic-square&labelColor=FF0000&logo=gmail&logoColor=white)</a></sub>
+<br/>
+
+<div align=right>
+  📫 Feel free to contact me —
+  <!--<sub><a href="https://www.linkedin.com/in/javier-gaton-herguedas/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=plastic-square&logo=Linkedin&logoColor=white" alt="Linkedin logo"/></a></sub>-->
+  <sub><a href="mailto:javigaton@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-aa0000?style=plastic-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail logo"/></a></sub>
+</div>
